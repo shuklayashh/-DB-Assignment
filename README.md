@@ -35,3 +35,6 @@ productInventory data
 
 discount data 
 ![alt text](discount.png)
+
+Postman api data
+![alt text](<postman api response.png>)

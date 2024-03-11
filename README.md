@@ -18,3 +18,20 @@ To ensure that each product in the "Product" table has a valid category assigned
 Define Foreign Key Constraint: In the database schema definition for the "Product" table, you would define the "category_id" column as a foreign key that references the primary key of the "Product_Category" table.
 
 Enforce Referential Integrity: By defining the foreign key constraint, the database management system (DBMS) will ensure that each value stored in the "category_id" column of the "Product" table corresponds to a valid primary key value in the "Product_Category" table. This means that you can't insert a product with a "category_id" that doesn't exist in the "Product_Category" table.
+
+
+## Answer 3)
+
+Product image from mongodb 
+
+![alt text](products.png)
+
+productcategory data 
+![alt text](productcategory-1.png)
+
+productInventory data
+
+![alt text](productinventor.png)
+
+discount data 
+![alt text](discount.png)

@@ -39,6 +39,3 @@ discount data
 Postman api data
 ![alt text](<postman api response.png>)
 
-video of assignment
-
-<video controls src="data.js - DB-Assignment - Visual Studio Code 2024-03-11 19-02-11.mp4" title="Title"></video>
